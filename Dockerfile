@@ -1,4 +1,4 @@
-FROM python:alpine:3.7
+FROM python:alpine3.7
 
 RUN mkdir /site
 
